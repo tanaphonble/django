@@ -1,1 +1,3 @@
 venv-learning-django/
+*.pyc
+*.sqlite3
